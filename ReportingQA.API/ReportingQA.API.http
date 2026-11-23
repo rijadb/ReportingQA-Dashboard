@@ -1,0 +1,11 @@
+@ReportingQA.API_HostAddress = http://localhost:5066
+
+GET {{ReportingQA.API_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{ReportingQA.API_HostAddress}}/todos/1
+Accept: application/json
+
+###

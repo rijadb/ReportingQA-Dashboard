@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ReportingQA.API/ReportingQA.API.csproj" />
+  <Project Path="ReportingQA.Application/ReportingQA.Application.csproj" Id="c7e833c5-5e67-4e0e-9edb-605234576220" />
+  <Project Path="ReportingQA.Domain/ReportingQA.Domain.csproj" Id="4b5da538-8fcd-4d0c-89a5-a494d5fb3901" />
+  <Project Path="ReportingQA.Infrastructure/ReportingQA.Infrastructure.csproj" Id="f6f3cec2-b1ad-4343-9ef1-bd45b78e97fc" />
+</Solution>
